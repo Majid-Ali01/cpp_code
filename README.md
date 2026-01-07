@@ -35,4 +35,4 @@ It is designed to manage basic hospital operations efficiently.
 
 
    ```bash
-   git clone <repository-url>
+   git clone <cpp_code>
