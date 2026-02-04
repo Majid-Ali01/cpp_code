@@ -34,5 +34,6 @@ It is designed to manage basic hospital operations efficiently.
 - **IDE:** Dev-C++)
 
 
-   ```bash
-   git clone <cpp_code>
+  ### 📫 Connect with me
+- GitHub: https://github.com/Majid-Ali01/cpp_code
+
