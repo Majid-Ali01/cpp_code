@@ -143,19 +143,43 @@ g++ main.cpp -o hospital
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Preview
+
+<h1 align="center">📸 Live Application Preview</h1>
 
 <p align="center">
 
-<img width="700" src="screenshots/menu.png">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hospital+Management+System;Java+Swing+%2B+MySQL;Modern+GUI;Fast+%7C+Secure+%7C+Professional"/>
 
-<br><br>
+</p>
 
-<img width="700" src="screenshots/patient.png">
+---
 
-<br><br>
+<p align="center">
 
-<img width="700" src="screenshots/emergency.png">
+### 🏠 Dashboard
+
+<img src="screenshots/menu.png" width="850">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+### 🩺 Patient Management
+
+<img src="screenshots/patient.png" width="850">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+### 🚑 Emergency Module
+
+<img src="screenshots/emergency.png" width="850">
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C6FF,50:0072FF,100:6A11CB&section=footer"/>
 
 </p>
 
