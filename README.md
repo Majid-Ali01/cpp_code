@@ -156,7 +156,7 @@ g++ main.cpp -o hospital
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=🏥+Hospital+Management+System;Java+Swing+%2B+MySQL;Modern+GUI+Application;Professional+Desktop+Software"/>
+<img src="https://github.com/Majid-Ali01/cpp_code/blob/main/Preview%20Template.png"/>
 
 </p>
 
