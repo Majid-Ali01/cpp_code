@@ -156,7 +156,7 @@ g++ main.cpp -o hospital
 
 <p align="center">
 
-<img src="https://github.com/Majid-Ali01/cpp_code/blob/main/Preview%20Template.png"/>
+<img src="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/Preview%20Template.png" width="600"/>
 
 </p>
 
