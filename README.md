@@ -144,42 +144,75 @@ g++ main.cpp -o hospital
 ---
 
 # 📸 Application Preview
-
 <h1 align="center">📸 Live Application Preview</h1>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hospital+Management+System;Java+Swing+%2B+MySQL;Modern+GUI;Fast+%7C+Secure+%7C+Professional"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=🏥+Hospital+Management+System;Java+Swing+%2B+MySQL;Modern+GUI+Application;Professional+Desktop+Software"/>
 
 </p>
 
 ---
 
-<p align="center">
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<a href="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/menu.png">
+
+<img src="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/menu.png" width="350"/>
+
+</a>
 
 ### 🏠 Dashboard
 
-<img src="screenshots/menu.png" width="850">
+⭐ Main Menu
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</td>
 
-### 🩺 Patient Management
+<td align="center">
 
-<img src="screenshots/patient.png" width="850">
+<a href="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/patient.png">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<img src="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/patient.png" width="350"/>
+
+</a>
+
+### 🩺 Patient
+
+⭐ Patient Management
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<a href="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/emergency.png">
+
+<img src="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/screenshots/emergency.png" width="720"/>
+
+</a>
 
 ### 🚑 Emergency Module
 
-<img src="screenshots/emergency.png" width="850">
+⚡ Fast Response System
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C6FF,50:0072FF,100:6A11CB&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00C6FF,50:0072FF,100:6A11CB&section=footer"/>
 
 </p>
 
