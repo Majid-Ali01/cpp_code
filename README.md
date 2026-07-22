@@ -1,3 +1,10 @@
+<div align="center">
+
+# 🏥 Hospital Management System
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hospital+Management+System;C%2B%2B+Project;Console+Based+Application;File+Handling+%2B+Structures;CRUD+Operations+%2B+Emergency+Management" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hospital%20Management%20System&fontAlign=50&fontSize=45&color=0:00c6ff,100:0072ff&animation=fadeIn"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=00D8FF&center=true&vCenter=true&width=1000&lines=Hospital+Management+System;Built+Using+C%2B%2B;CRUD+Operations;File+Handling;Emergency+Management"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hospital%20Management%20System&fontSize=45"/>
@@ -9,13 +16,6 @@
 <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME/Hospital-Management-System?style=for-the-badge">
 </p>
-<div align="center">
-
-# 🏥 Hospital Management System
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hospital+Management+System;C%2B%2B+Project;Console+Based+Application;File+Handling+%2B+Structures;CRUD+Operations+%2B+Emergency+Management" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hospital%20Management%20System&fontAlign=50&fontSize=45&color=0:00c6ff,100:0072ff&animation=fadeIn"/>
 
 </div>
 
