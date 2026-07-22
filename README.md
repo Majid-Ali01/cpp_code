@@ -242,16 +242,46 @@ If you like this project,
 
 <div align="center">
 
-## 👨‍💻 Developed By
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:0072FF,100:6A11CB&text=Thank%20You%20For%20Visiting!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# Majid Ali
+# 👨‍💻 Developed with ❤️ by
 
-Software Engineering Student
+<h1>
+Majid Ali
+</h1>
 
-Sukkur IBA University
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Sukkur+IBA+University;Java+Developer;C%2B%2B+Programmer;Database+Designer;Open+Source+Enthusiast;Future+Software+Engineer+🚀"/>
 
-💙 Thank You for Visiting 💙
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://img.shields.io/badge/University-Sukkur%20IBA-0072FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Department-Software%20Engineering-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Country-Pakistan-00A651?style=for-the-badge&logo=pakistan&logoColor=white"/>
+
+---
+
+### 🌟 Thanks for visiting my profile 🌟
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1200&color=6A11CB&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;Never+Stop+Coding...;See+You+Again!+💙"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Majid-Ali01&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Majid-Ali01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Majid-Ali01?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Majid-Ali01?style=for-the-badge&logo=github"/>
+
+<br><br>
+
+<h2>💙 Happy Coding! 💙</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:6A11CB,50:2575FC,100:00C6FF&section=footer"/>
 
 </div>
