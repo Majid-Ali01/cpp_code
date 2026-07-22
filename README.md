@@ -1,3 +1,14 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=00D8FF&center=true&vCenter=true&width=1000&lines=Hospital+Management+System;Built+Using+C%2B%2B;CRUD+Operations;File+Handling;Emergency+Management"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hospital%20Management%20System&fontSize=45"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/Platform-Windows-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/File%20Handling-Yes-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME/Hospital-Management-System?style=for-the-badge">
+</p>
 <div align="center">
 
 # 🏥 Hospital Management System
