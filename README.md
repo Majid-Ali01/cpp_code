@@ -151,17 +151,6 @@ g++ main.cpp -o hospital
 
 ---
 
-# 📸 Application Preview
-<h1 align="center">📸 Live Application Preview</h1>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Majid-Ali01/cpp_code/main/Preview%20Template.png" width="600"/>
-
-</p>
-
----
-
 <table align="center">
 
 <tr>
